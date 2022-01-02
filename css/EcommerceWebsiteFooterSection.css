@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.background {
+    background-color: #0d2436;
+}
+
+.logos-bg {
+    background-color: #152c3e;
+    color: #959ead;
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+    margin: 3px;
+    padding-top: 15px;
+    padding-bottom: 5px;
+    padding-right: 12px;
+    padding-left: 12px;
+}
+
+.logo {
+    font-size: 18px;
+}
+
+.img {
+    height: 50px;
+}
+
+.bottom-heading {
+    color: #5a7184;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.inner-heading {
+    color: #5a7184;
+    font-size: 13px;
+}
+
+p {
+    color: #5a7184;
+    font-size: 11px;
+}
+
+.bottom-head {
+    color: #5a7184;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.icon {
+    color: #5a7184;
+    font-size: 20px;
+}
